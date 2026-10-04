@@ -108,15 +108,7 @@ A web application developed as part of my earlier application-development work.
 
 A reservation-focused application covering the core flow of bus booking and management.
 
-**Stack:** `Application Development` · `Database`
-
----
-
-### Console-based E-commerce System
-
-A console application built around core e-commerce operations and object-oriented programming concepts.
-
-**Stack:** `C#` · `OOP`
+**Stack:** `Java` · `Database`
 
 ---
 
